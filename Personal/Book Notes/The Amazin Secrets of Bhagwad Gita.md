@@ -8,8 +8,11 @@ Tags: #spirituality #self-development
 ---
 
 #### The Book in 3 Sentences
-- The 3 tenets of Hinduism are perform karma without attachment to results, dissolve desire to dissipate ego, and 
+- The 3 tenets of Hinduism are perform karma without attachment to results (Nishkama karma or selfless actions), dissolve desire to dissipate ego, and controlling senses.
+- Addresses concepts of what Hinduism says about women, homosexuality, heaven/hell, salvation, food, meditation, etc.
 #### Impressions
+- I find Hinduism to be extremely liberal religion the more I read about it. Lord Krishna says that Arjuna can accept or refuse anything and everything the Lord Krishna says and still call himself a Hindu. 
+- Hinduism encourages everyone to ask questions withou
 
 #### How I Discovered It
 
