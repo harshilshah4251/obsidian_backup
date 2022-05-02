@@ -1,5 +1,7 @@
 [
   "templater-obsidian",
   "obsidian-git",
-  "periodic-notes"
+  "periodic-notes",
+  "nldates-obsidian",
+  "file-tree-alternative"
 ]

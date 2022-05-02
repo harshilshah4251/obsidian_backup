@@ -44,8 +44,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "2088fb7fdbd86fe8",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
