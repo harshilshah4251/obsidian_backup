@@ -5,19 +5,20 @@
   "daily": {
     "format": "MMMM Do, YYYY",
     "folder": "Personal/Planner/Daily Planner",
+    "template": "Personal/Utils/Templates/Daily Planner.md",
     "enabled": true
   },
   "weekly": {
     "format": "",
     "template": "",
     "folder": "Personal/Planner/Weekly Planner",
-    "enabled": true
+    "enabled": false
   },
   "monthly": {
     "format": "",
     "template": "",
     "folder": "Personal/Planner/Monthly Planner",
-    "enabled": true
+    "enabled": false
   },
   "quarterly": {
     "format": "",
@@ -28,6 +29,6 @@
     "format": "",
     "template": "",
     "folder": "Personal/Planner/Annual Planner",
-    "enabled": true
+    "enabled": false
   }
 }
