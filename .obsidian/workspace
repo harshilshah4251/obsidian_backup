@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "688bf1a2f97e5c9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "83b2b1349f528fb2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Daily Planner/May 1st, 2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05ad1d63d117d5f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "406d3ffc3b9f7205",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fbc94142a4e7c4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ebe5136ad782134",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78e2da326bac5302",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f23da242c8459c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6e8ece48a067d5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal/Daily Planner/May 1st, 2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffd833558a56f931",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd0540c73fa8e5f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/Daily Planner/May 1st, 2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "83b2b1349f528fb2",
+  "lastOpenFiles": [
+    "Personal/Daily Planner/May 1st, 2022.md",
+    "Personal/Utils/Templates/Weekly Planner Template.md",
+    "Daily Planner.md",
+    "Diagrams.md",
+    "Pasted image 20220501225959.png"
+  ]
+}
