@@ -22,7 +22,7 @@ At the Bombay Airport.
 
 #### Who Should Read It?
 
-Anyone interested in learning about Hinduism and getting a high level overview of what Hinduism preaches about certain big ideas/concepts without doing extensive 
+Anyone interested in learning about Hinduism and getting a high level overview of what Hinduism preaches about certain big ideas/concepts without diving deeper 
 
 #### How the Book Changed Me
 
