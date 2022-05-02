@@ -15,8 +15,8 @@
   },
   "monthly": {
     "format": "",
-    "template": "Personal/Monthly Planner",
-    "folder": "",
+    "template": "",
+    "folder": "Personal/Monthly Planner",
     "enabled": true
   },
   "quarterly": {
@@ -26,8 +26,8 @@
   },
   "yearly": {
     "format": "",
-    "template": "Personal/Annual Planner",
-    "folder": "",
+    "template": "",
+    "folder": "Personal/Annual Planner",
     "enabled": true
   }
 }
