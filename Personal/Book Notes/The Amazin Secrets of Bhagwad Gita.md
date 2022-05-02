@@ -12,7 +12,7 @@ Tags: #spirituality #self-development
 - Addresses concepts of what Hinduism says about women, homosexuality, heaven/hell, salvation, food, meditation, etc.
 #### Impressions
 - I find Hinduism to be extremely liberal religion the more I read about it. Lord Krishna says that Arjuna can accept or refuse anything and everything the Lord Krishna says and still call himself a Hindu. 
-- Hinduism encourages everyone to ask questions withou
+- Hinduism encourages everyone to ask questions without judgment. 
 
 #### How I Discovered It
 
