@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Book Notes/The 4 hour body.md",
+            "file": "Personal/Book Notes/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Book Notes/The 4 hour body.md",
+                "file": "Personal/Book Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Book Notes/The 4 hour body.md",
+                "file": "Personal/Book Notes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,14 @@
   },
   "active": "83b2b1349f528fb2",
   "lastOpenFiles": [
+    "Personal/Book Notes/Untitled.md",
     "Personal/Book Notes/The 4 hour body.md",
     "Personal/Utils/Templates/Book Notes.md",
-    "Personal/Book Notes/Untitled.md",
     "Personal/Planner/Daily Planner/May 2nd, 2022.md",
     "Untitled.md",
     "Personal/Planner/Daily Planner/May 1st, 2022.md",
     "Coinbase/Meetings/1-1/Untitled.md",
     "Personal/Utils/Templates/Weekly Planner Template.md",
-    "Daily Planner.md",
-    "Diagrams.md"
+    "Daily Planner.md"
   ]
 }
