@@ -4,19 +4,19 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "MMMM Do, YYYY",
-    "folder": "Personal/Daily Planner",
+    "folder": "Personal/Planner/Daily Planner",
     "enabled": true
   },
   "weekly": {
     "format": "",
     "template": "",
-    "folder": "Personal/Weekly Planner",
+    "folder": "Personal/Planner/Weekly Planner",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "",
-    "folder": "Personal/Monthly Planner",
+    "folder": "Personal/Planner/Monthly Planner",
     "enabled": true
   },
   "quarterly": {
@@ -27,7 +27,7 @@
   "yearly": {
     "format": "",
     "template": "",
-    "folder": "Personal/Annual Planner",
+    "folder": "Personal/Planner/Annual Planner",
     "enabled": true
   }
 }

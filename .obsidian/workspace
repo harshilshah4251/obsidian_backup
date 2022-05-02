@@ -7,12 +7,8 @@
         "id": "83b2b1349f528fb2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Personal/Daily Planner/May 2nd, 2022.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -48,17 +44,8 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "2088fb7fdbd86fe8",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Daily Planner/May 2nd, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Daily Planner/May 2nd, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,8 +106,9 @@
   },
   "active": "83b2b1349f528fb2",
   "lastOpenFiles": [
-    "Personal/Daily Planner/May 2nd, 2022.md",
-    "Personal/Daily Planner/May 1st, 2022.md",
+    "Personal/Planner/Daily Planner/May 2nd, 2022.md",
+    "Untitled.md",
+    "Personal/Planner/Daily Planner/May 1st, 2022.md",
     "Coinbase/Meetings/1-1/Untitled.md",
     "Personal/Utils/Templates/Weekly Planner Template.md",
     "Daily Planner.md",
