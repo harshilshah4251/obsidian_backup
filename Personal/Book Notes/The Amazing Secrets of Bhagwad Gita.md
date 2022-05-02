@@ -1,5 +1,5 @@
 
-## The Amazin Secrets of Bhagwad Gita
+## The Amazing Secrets of Bhagwad Gita
 
 Date Finished: 2022-05-02
 Author: Ed Vishwanathan
@@ -26,6 +26,9 @@ Anyone interested in learning about Hinduism and getting a high level overview o
 #### How the Book Changed Me
 
 - I definitely understand a lot more about Hinduism and what it preaches about several concepts. 
+- I will try to internalize Nishkama Karma in my daily life.
+- Desire and Attachment lead to misery. 
+
 
 #### My Top 3 Quotes
 - Religions are man-made. Spirtual knowledge is for all.
