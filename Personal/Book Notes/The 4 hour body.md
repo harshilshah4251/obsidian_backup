@@ -1,7 +1,7 @@
 
 # {{title}}
 
-Date Finished: {{date:MMM d, YYYY}}
+Date Finished: <% tp.file.creation_date() %>
 Author:
 Tags:
 
