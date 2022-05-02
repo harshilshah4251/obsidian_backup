@@ -9,11 +9,11 @@ Tags: #spirituality #self-development
 
 #### The Book in 3 Sentences
 - The 3 tenets of Hinduism are perform karma without attachment to results (Nishkama karma or selfless actions), dissolve desire to dissipate ego, and controlling senses.
-- Addresses concepts of what Hinduism says about women, homosexuality, heaven/hell, salvation, food, meditation, caste system, abortion etc.
+- Addresses concepts of what Hinduism says about women, homosexuality, heaven/hell, salvation, food, meditation, caste system, abortion, gambling, sex etc.
 #### Impressions
 - I find Hinduism to be extremely liberal religion the more I read about it. Lord Krishna says that Arjuna can accept or refuse anything and everything the Lord Krishna says and still call himself a Hindu. 
 - Hinduism encourages everyone to ask questions without judgment. Hinduism is for everyone and it respects all religions.
-- 
+
 
 #### How I Discovered It
 
@@ -35,4 +35,9 @@ Anyone interested in learning about Hinduism and getting a high level overview o
 - Similarly, caste system was designed to delegate work in a newly formed civilization. Over time, it got degenerated and became a mechanism to discriminate against people. It's no longer relevant and hinduism allows space for that change as well. 
 - Similarly, abortion was condemned because the population at that time was very low and they needed people to do the work. Children are considered gifts of god. 
 - Homosexuality is condemned because they needed men to fight wars and homosexuals are not allowed to fight. However, there are many instances of homosexuals in Mahabharats - shikandi.
-- The sati practice is never proposed/practiced/preached by Hinduism. It got its name when Sati (Shiva's wife) immolated herself when Shiva was ignored by her family in a yagna. But hinduism never says that women should do that. Infact, none of the King Dashrath's wife committed sati when he died. Rajputs promoted the practice because they were constantly fighting wars with Mughals and women were often subject of war crimes of raping. Hence, they killed themselves in order to protect their 
+- The sati practice is never proposed/practiced/preached by Hinduism. It got its name when Sati (Shiva's wife) immolated herself when Shiva was ignored by her family in a yagna. But hinduism never says that women should do that. Infact, none of the King Dashrath's wife committed sati when he died. Rajputs promoted the practice because they were constantly fighting wars with Mughals and women were often subject of war crimes of raping. Hence, they killed themselves in order to protect their honor.
+- Aum is the sound of the universe. 
+- Everyone deserves salvation (self-realization or oneness with the God) in Hinduism. 
+- Heaven and hell are temporary abodes and not permanent places as preached by other religions. 
+- Karma without attachment to results leads to well-being and salvation.
+- Hinduism doesn't ask people to renunciate their responsibilities and become a hermit to achieve salvation. It infact wants people to do karma to achieve salvation.
