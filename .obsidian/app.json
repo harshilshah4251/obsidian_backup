@@ -2,5 +2,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "promptDelete": false,
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "vimMode": true
 }

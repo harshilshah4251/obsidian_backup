@@ -11,8 +11,6 @@ Tags:
 
 #### Impressions
 
-#### Who Should Read It?
-
 #### How the Book Changed Me
 
 #### My Top 3 Quotes
