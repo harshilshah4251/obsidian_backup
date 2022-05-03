@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Planner/Daily Planner/May 3rd, 2022.md",
+            "file": "Personal/Article Notes/Ethereum.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Planner/Daily Planner/May 3rd, 2022.md",
+                "file": "Personal/Article Notes/Ethereum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Planner/Daily Planner/May 3rd, 2022.md",
+                "file": "Personal/Article Notes/Ethereum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,10 +112,10 @@
   },
   "active": "83b2b1349f528fb2",
   "lastOpenFiles": [
+    "Personal/Article Notes/Ethereum.md",
+    "Personal/Book Notes/The Kings of Crypto.md",
     "Personal/Planner/Daily Planner/May 3rd, 2022.md",
     "Personal/Idea Hub/Writing.md",
-    "Personal/Book Notes/The Kings of Crypto.md",
-    "Personal/Article Notes/Ethereum.md",
     "Personal/Utils/Templates/Article Notes.md",
     "Personal/Utils/Templates/Book Notes.md",
     "Personal/Book Notes/The Amazing Secrets of Bhagwad Gita.md",

@@ -29,4 +29,5 @@ Links: https://ethereum.org/en/developers/docs/
 
 - Web3 Dapps allow people to participate without monetizing their personal data.
 - Ethereum is turing-complete, meaning you can pretty much program anything.
+- Gas is a reference to the computation required to process the transaction by a miner. Users have to pay a fee for this computation. The `gasLimit`, and `maxPriorityFeePerGas` determine the maximum transaction fee paid to the miner.
 
