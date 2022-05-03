@@ -11,7 +11,11 @@ Tags: #crypto #ethereum #coinbase #blockchain
 
 #### Impressions
 
+- Story of Coinbase, how it started, challenges they faced.
+
 #### My Top 3 Quotes
+- Run through the brick wall
+- Coinbase 
 
 #### Summary + Notes
 - Brian's vision was to create a platform where people can buy bitcoin without managing private keys. They can later transfer bitcoin to a wallet where private keys will be  self-managed. Brian and Ben split on this as Ben wanted fully decentralized platform.
@@ -21,4 +25,4 @@ Tags: #crypto #ethereum #coinbase #blockchain
 - Origin of bitcoin is a sacred mystery. Faith doesn't require explanation.
 - Nick Szabo is often believed to be Satoshi Nakamoto
 - There is a company called Xapo that stores private keys in a cold storage under the Swiss Alps mountains.
-- There was a massive debate between small blockers(Bitcoin Core Foundation) and big blockers (Coinbase). Big blockers wanted 2 MB size blocks because that would mean more transactions in each block and help in reducing transaction backlog and faster processing times. Small blockers feared that this would give advan
+- There was a massive debate between small blockers(Bitcoin Core Foundation) and big blockers (Coinbase). Big blockers wanted 2 MB size blocks because that would mean more transactions in each block and help in reducing transaction backlog and faster processing times. Small blockers feared that this would give advantage to entities that can spend money on advance hardware to process the transactions as larger blocks require more resources. 
