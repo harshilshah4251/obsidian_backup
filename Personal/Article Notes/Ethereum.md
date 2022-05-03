@@ -24,4 +24,5 @@ Tags: #ethereum #blockchain
 | Privacy               | Network congestion                       |
 | Date integrity        | User experience                          |
 | Trustless computation | Centralization                           |
-                                          |
+
+
