@@ -4,3 +4,4 @@
 - Decentralized Autonomous Organizations
 - Blockchain Voting System
 - Blockchain Twitter
+- Dapp to store private keys

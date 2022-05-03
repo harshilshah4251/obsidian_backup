@@ -5,6 +5,7 @@ Date: 2022-05-03
 Author:
 Tags: #ethereum #blockchain 
 
+
 ---
 
 #### Summary + Notes
@@ -25,4 +26,6 @@ Tags: #ethereum #blockchain
 | Date integrity        | User experience                          |
 | Trustless computation | Centralization                           |
 
+- Web3 Dapps allow people to participate without monetizing their personal data.
+- Ethereum is turing-complete, meaning you can pretty much program anything.
 
