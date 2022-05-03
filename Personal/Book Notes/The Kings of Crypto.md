@@ -21,3 +21,4 @@ Tags: #crypto #ethereum #coinbase #blockchain
 - Origin of bitcoin is a sacred mystery. Faith doesn't require explanation.
 - Nick Szabo is often believed to be Satoshi Nakamoto
 - There is a company called Xapo that stores private keys in a cold storage under the Swiss Alps mountains.
+- There was a massive debate between small blockers(Bitcoin Core Foundation) and big blockers (Coinbase). Big blockers wanted 2 MB size blocks because that would mean more transactions in each block and help in reducing transaction backlog and faster processing times. Small blockers feared that this would give advan
