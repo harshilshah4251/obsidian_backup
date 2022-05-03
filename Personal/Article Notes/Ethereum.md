@@ -16,3 +16,11 @@ Tags: #ethereum #blockchain
 - Gas fees are dependent on the amount of computing power required and the network demand at that time.
 - A decentralized application (dapp) is an application built on a decentralized network that combines a [smart contract](https://ethereum.org/en/developers/docs/smart-contracts/) and a frontend user interface.
 - Denial-of-service attacks not possible. Also users cannot flood ethereum network with fake requests as each request requires GAS fees and users will eventually run out of it.
+
+| Benefits of DAPPS     | Drawbacks of DAPPS |
+| --------------------- | ------------------ |
+| No downtime           |                    |
+| No censorship         |                    |
+| Privacy               |                    |
+| Date integrity        |                    |
+| Trustless computation |                    |
