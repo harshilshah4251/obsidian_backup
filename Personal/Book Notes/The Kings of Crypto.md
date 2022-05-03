@@ -14,3 +14,5 @@ Tags: #crypto #ethereum #coinbase #blockchain
 #### My Top 3 Quotes
 
 #### Summary + Notes
+- Brian's vision was to create a platform where people can buy bitcoin without managing private keys. They can later transfer bitcoin to a wallet where private keys will be  self-managed. Brian and Ben split on this as Ben wanted fully decentralized platform.
+- 
