@@ -19,3 +19,4 @@ Tags: #crypto #ethereum #coinbase #blockchain
 - Initially no one trusted Bitcoin as it was just some untouchable magical piece of computer code and nothing tangible and substantial. But it doesn't matter. Bitcoin is currency and currency is trust when enough people agree to assign value to it. 
 - You don't wanna be Lazsclo Hanyecz who spent 10,000 bitcoins for 2 large pizzas. Warren Buffet might have something to say about that. 
 - Origin of bitcoin is a sacred mystery. Faith doesn't require explanation.
+- Nick Szabo is often believed to be Satoshi Nakamoto
