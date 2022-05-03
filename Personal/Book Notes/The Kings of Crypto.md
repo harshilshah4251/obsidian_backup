@@ -11,11 +11,11 @@ Tags: #crypto #ethereum #coinbase #blockchain
 
 #### Impressions
 
-- Story of Coinbase, how it started, challenges they faced.
+- Story of Coinbase, how it started, challenges they faced, and evolution of cryptocurrency. 
 
 #### My Top 3 Quotes
 - Run through the brick wall
-- Coinbase 
+- Coinbase was running business at the Bermuda triangle of regulations, finance, and tech.
 
 #### Summary + Notes
 - Brian's vision was to create a platform where people can buy bitcoin without managing private keys. They can later transfer bitcoin to a wallet where private keys will be  self-managed. Brian and Ben split on this as Ben wanted fully decentralized platform.
