@@ -19,7 +19,7 @@ Tags: #ethereum #blockchain
 
 | Benefits of DAPPS     | Drawbacks of DAPPS |
 | --------------------- | ------------------ |
-| No downtime           |                    |
+| No downtime           |     Maintena               |
 | No censorship         |                    |
 | Privacy               |                    |
 | Date integrity        |                    |
