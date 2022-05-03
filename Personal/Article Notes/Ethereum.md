@@ -17,10 +17,11 @@ Tags: #ethereum #blockchain
 - A decentralized application (dapp) is an application built on a decentralized network that combines a [smart contract](https://ethereum.org/en/developers/docs/smart-contracts/) and a frontend user interface.
 - Denial-of-service attacks not possible. Also users cannot flood ethereum network with fake requests as each request requires GAS fees and users will eventually run out of it.
 
-| Benefits of DAPPS     | Drawbacks of DAPPS |
-| --------------------- | ------------------ |
-| No downtime           |     Maintena               |
-| No censorship         |                    |
-| Privacy               |                    |
-| Date integrity        |                    |
-| Trustless computation |                    |
+| Benefits of DAPPS     | Drawbacks of DAPPS                       |
+| --------------------- | ---------------------------------------- |
+| No downtime           | Maintenance - because they are immutable |
+| No censorship         | Performance overhead                     |
+| Privacy               | Network congestion                       |
+| Date integrity        | User experience                          |
+| Trustless computation | Centralization                           |
+                                          |
