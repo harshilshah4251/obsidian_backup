@@ -2,8 +2,8 @@
 ## The Kings of Crypto
 
 Date: 2022-05-02
-Author:
-Tags:
+Author: Jeff John Roberts
+Tags: #crypto #ethereum #coinbase #blockchain
 
 ---
 
