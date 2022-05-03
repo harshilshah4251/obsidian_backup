@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Planner/Reminders.md",
+            "file": "Personal/Book Notes/The Amazing Secrets of Bhagwad Gita.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Planner/Reminders.md",
+                "file": "Personal/Book Notes/The Amazing Secrets of Bhagwad Gita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Planner/Reminders.md",
+                "file": "Personal/Book Notes/The Amazing Secrets of Bhagwad Gita.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,11 +112,11 @@
   },
   "active": "83b2b1349f528fb2",
   "lastOpenFiles": [
-    "Personal/Planner/Reminders.md",
+    "Personal/Book Notes/The Amazing Secrets of Bhagwad Gita.md",
     "Personal/Book Notes/The 4 hour body.md",
+    "Personal/Planner/Reminders.md",
     "Untitled.md",
     "Personal/Utils/Templates/Book Notes.md",
-    "Personal/Book Notes/The Amazing Secrets of Bhagwad Gita.md",
     "Personal/Planner/Daily Planner/May 2nd, 2022.md",
     "Personal/Utils/Templates/Daily Planner.md",
     "Personal/Utils/Templates/Untitled.md",
