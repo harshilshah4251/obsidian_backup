@@ -20,3 +20,4 @@ Tags: #crypto #ethereum #coinbase #blockchain
 - You don't wanna be Lazsclo Hanyecz who spent 10,000 bitcoins for 2 large pizzas. Warren Buffet might have something to say about that. 
 - Origin of bitcoin is a sacred mystery. Faith doesn't require explanation.
 - Nick Szabo is often believed to be Satoshi Nakamoto
+- There is a company called Xapo that stores private keys in a cold storage under the Swiss Alps 
