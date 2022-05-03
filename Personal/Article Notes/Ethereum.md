@@ -11,3 +11,5 @@ Tags: #ethereum #blockchain
 
 - Blockchain is a public database that is updated and shared across many computers in a network.
 - **Ether (ETH)** is the native cryptocurrency of Ethereum.
+- At a very basic level, you can think of a smart contract like a sort of vending machine: a script that, when called with certain parameters, performs some actions or computation if certain conditions are satisfied.
+- The Ethereum Virtual Machine is the global virtual computer whose state every participant on the Ethereum network stores and agrees on. Any participant can request the execution of arbitrary code on the EVM; code execution changes the state of the EVM.
