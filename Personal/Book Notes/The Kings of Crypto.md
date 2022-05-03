@@ -19,6 +19,7 @@ Tags: #crypto #ethereum #coinbase #blockchain
 - Brian had a pathological desire for self-improvement.
 - Coinbase is the "white knight of crypto"
 - "Not your keys, not your coins" - Coinbase's critics
+- 
 
 #### Summary + Notes
 - Brian's vision was to create a platform where people can buy bitcoin without managing private keys. They can later transfer bitcoin to a wallet where private keys will be  self-managed. Brian and Ben split on this as Ben wanted fully decentralized platform.
@@ -32,3 +33,4 @@ Tags: #crypto #ethereum #coinbase #blockchain
 - Facebook connected the world but also undermined democratic elections. Youtube built a massive broadcast system but opened a Pandora's box of lies and conspiracy theories.
 - In 2016, IRS found out only 806 people reported capital gains from Bitcoin which was taxed like property. IRS found out that cryptocurrency is a vector for tax evasion.
 - Brian's goal is to become law-abiding good guy in the industry that is rife with scams and scoundrels. 
+- Brian hoped thoughtful, careful legislation could bring stability to crypto markets and make it even more mainstream.
