@@ -39,3 +39,4 @@ Tags: #crypto #ethereum #coinbase #blockchain
 - Nathalie received a bomb threat email at CB HQ
 - Because of increase in demand and high number of transactions and limited block size, the Bitcoin network was hopelessly clogged and transaction fees were out of the roof.
 - CB had major scaling issues as the infra was based on MongoDB and Heroku which are good for prototyping but not for production grade software.
+- Blockchains are the most complicated piece of technology to arrive since browsers or operating systems. They require a deep understanding of cryptography, game theory, networking, information security, distributed systems, databases, and systems programming. 
