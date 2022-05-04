@@ -37,3 +37,4 @@ Tags: #crypto #ethereum #coinbase #blockchain
 - At one point, news went around that Vitalik had died in car crash. Vitalik proved he is not dead by holding up a piece of paper with number of newly minted blocks and hash which is a blockchain equivalent of holding a daily newspaper to prove he was alive. 
 - ICO exit scams were very common. 
 - Nathalie received a bomb threat email at CB HQ
+- Because of increase in demand and high number of transactions and limited block size, the Bitcoin network was hopelessly clogged and transaction fees were out of the roof.
