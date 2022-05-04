@@ -36,3 +36,4 @@ Tags: #crypto #ethereum #coinbase #blockchain
 - Brian hoped thoughtful, careful legislation could bring stability to crypto markets and make it even more mainstream.
 - At one point, news went around that Vitalik had died in car crash. Vitalik proved he is not dead by holding up a piece of paper with number of newly minted blocks and hash which is a blockchain equivalent of holding a daily newspaper to prove he was alive. 
 - ICO exit scams were very common. 
+- Nathalie received a bomb threat email at CB HQ
