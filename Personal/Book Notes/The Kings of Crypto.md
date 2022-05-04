@@ -35,3 +35,4 @@ Tags: #crypto #ethereum #coinbase #blockchain
 - Brian's goal is to become law-abiding good guy in the industry that is rife with scams and scoundrels. 
 - Brian hoped thoughtful, careful legislation could bring stability to crypto markets and make it even more mainstream.
 - At one point, news went around that Vitalik had died in car crash. Vitalik proved he is not dead by holding up a piece of paper with number of newly minted blocks and hash which is a blockchain equivalent of holding a daily newspaper to prove he was alive. 
+- ICO exit scams were very common. 
