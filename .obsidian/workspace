@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Book Notes/The Kings of Crypto.md",
+            "file": "Personal/Planner/Daily Planner/May 5th, 2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Book Notes/The Kings of Crypto.md",
+                "file": "Personal/Planner/Daily Planner/May 5th, 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Book Notes/The Kings of Crypto.md",
+                "file": "Personal/Planner/Daily Planner/May 5th, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "83b2b1349f528fb2",
   "lastOpenFiles": [
+    "Personal/Planner/Daily Planner/May 5th, 2022.md",
+    "Personal/Planner/Daily Planner/May 4th, 2022.md",
     "Personal/Book Notes/The Kings of Crypto.md",
     "Personal/Book Notes/The Amazing Secrets of Bhagwad Gita.md",
-    "Personal/Planner/Daily Planner/May 4th, 2022.md",
     "Personal/Planner/Daily Planner/May 3rd, 2022.md",
     "Personal/Idea Hub/Interesting Phrases.md",
     "Personal/Article Notes/Ethereum.md",
     "Personal/Idea Hub/Writing.md",
     "Personal/Utils/Templates/Article Notes.md",
-    "Personal/Utils/Templates/Book Notes.md",
-    "Personal/Planner/Daily Planner/May 2nd, 2022.md"
+    "Personal/Utils/Templates/Book Notes.md"
   ]
 }
