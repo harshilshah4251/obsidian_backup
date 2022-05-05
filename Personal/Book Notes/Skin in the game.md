@@ -15,4 +15,5 @@ Tags: #philosophy #rational #realworld #society
 
 #### Summary + Notes
 - The knowledge we get in "contact with the earth" (real world testing), is far superior than that obtained through reasoning.
+- Societies are run by risk-takers not risk-transferors.
 - 
