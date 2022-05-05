@@ -14,3 +14,5 @@ Tags: #philosophy #rational #realworld #society
 #### My Top 3 Quotes
 
 #### Summary + Notes
+- The knowledge we get in "contact with the earth" (real world testing), is far superior than that obtained through reasoning.
+- 
