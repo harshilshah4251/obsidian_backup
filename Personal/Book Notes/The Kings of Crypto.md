@@ -9,6 +9,8 @@ Tags: #crypto #ethereum #coinbase #blockchain
 
 #### The Book in 3 Sentences
 
+- The book captures the journey of crypto technology, Coinbase, and people involved since its inception in 2008. The book shows how different people impacted the trajectory of Coinbase and navigate through several crypto winters and bull runs. The book also talks about the industry in general and tech, regulatary, social challenges associated with getting more people onboard.
+
 #### Impressions
 
 - Story of Coinbase, how it started, challenges they faced, and evolution of cryptocurrency. 
