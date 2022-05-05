@@ -19,7 +19,6 @@ Tags: #crypto #ethereum #coinbase #blockchain
 - Brian had a pathological desire for self-improvement.
 - Coinbase is the "white knight of crypto"
 - "Not your keys, not your coins" - Coinbase's critics
-- 
 
 #### Summary + Notes
 - Brian's vision was to create a platform where people can buy bitcoin without managing private keys. They can later transfer bitcoin to a wallet where private keys will be  self-managed. Brian and Ben split on this as Ben wanted fully decentralized platform.
