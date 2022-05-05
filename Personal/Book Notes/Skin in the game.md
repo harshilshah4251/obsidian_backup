@@ -3,7 +3,7 @@
 
 Date: 2022-05-05
 Author: Nassim Nicholas Taleb
-Tags: 
+Tags: #philosophy #rational #realworld #society
 
 ---
 
