@@ -12,6 +12,7 @@ Tags: #philosophy #stoicism #seneca
 #### Impressions
 
 #### My Top 3 Quotes
+- “They lose the day in expectation of the night, and the night in fear of the dawn.”
 
 #### Summary + Notes
 - Our most important resource, time, is non-renewable
