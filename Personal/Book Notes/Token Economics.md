@@ -18,3 +18,4 @@ Tags:
 - Digital signature = Transaction + Private Key
 - Verification of Digital Signature = Transaction + Public Key
 - A blockchain wallet simply acts as a secure key storage and communication tool with the blockchain. It does not contain any tokens.
+- Trusted identities over the internet and a necessary prerequisite 
